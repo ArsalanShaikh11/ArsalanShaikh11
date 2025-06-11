@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [arsalan-portfolio-ten.vercel.app](arsalan-portfolio-ten.vercel.app)
+- 👨‍💻 All of my projects are available at [Portfolio]([arsalan-portfolio-ten.vercel.app](https://arsalan-portfolio-ten.vercel.app/))
 
 - 💬 Ask me about **ReactJS, Python, MongoDb,**
 
 - 📫 How to reach me **arsalanshaikhcodes@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KWhEmuR9jh_8Z8utj3yBVGFZAx-4xfVk/view?usp=drivesdk](https://drive.google.com/file/d/1KWhEmuR9jh_8Z8utj3yBVGFZAx-4xfVk/view?usp=drivesdk)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KWhEmuR9jh_8Z8utj3yBVGFZAx-4xfVk/view?usp=drivesdk)
 
 - ⚡ Fun fact **I think i am funny**
 
