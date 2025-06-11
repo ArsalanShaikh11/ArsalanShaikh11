@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [arsalan-portfolio-ten.vercel.app](arsalan-portfolio-ten.vercel.app)
+- 👨‍💻 All of my projects are available at [https://arsalan-portfolio-ten.vercel.app](arsalan-portfolio-ten.vercel.app)
 
 - 💬 Ask me about **ReactJS, Python, MongoDb,**
 
