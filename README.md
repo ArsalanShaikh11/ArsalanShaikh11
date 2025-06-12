@@ -4,7 +4,8 @@
 <h1 align="center" >Hi , I'm Shaikh Arsalan <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" </h1>
 <h3 align="center">I'm a passionate and curious Software developer with a love for building creative and impactful digital solutions from India</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"/>
+<!--   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"/> -->
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="50%"/><br> 
 </p>
 
 
@@ -22,7 +23,7 @@
 
 - ⚡ Fun fact **I think i am funny**
 
-<h3 align="left">Connect with me:</h3>
+<h2> Connect with me on 👇</h2>
 <p align="left">
 <a href="https://twitter.com/arsalanshaikh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arsalanshaikh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shaikh arsalan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shaikh arsalan" height="30" width="40" /></a>
@@ -37,3 +38,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arsalanshaikh11&show_icons=true&locale=en" alt="arsalanshaikh11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arsalanshaikh11&" alt="arsalanshaikh11" /></p>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
+</p>
