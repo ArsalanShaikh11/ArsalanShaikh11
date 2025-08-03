@@ -24,7 +24,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1KWhEmuR9jh_8Z8utj3yBVGFZAx-4xfVk/view?usp=drivesdk)
 
-- ⚡ Fun fact **I think i am funny**
+- ⚡ Aspiring Tech Entrepreneur & Innovation Seeker.
 
 <h2> Connect with me on 👇</h2>
 <p align="left">
