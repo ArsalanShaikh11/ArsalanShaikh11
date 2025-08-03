@@ -1,7 +1,10 @@
 <div align="center">
+  <img src="github-header-banner (1).png" alt="GitHub Banner" width="100%" />
+</div>
+<!-- <div align="center">
 <img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif" alt="GitHub Logo" width="150" height="150" />
 </div>
-<h1 align="center" >Hi , I'm Shaikh Arsalan <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" </h1>
+<h1 align="center" >Hi , I'm Shaikh Arsalan <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30" </h1> -->
 <h3 align="center">I'm a passionate and curious Software developer with a love for building creative and impactful digital solutions from India</h3>
 <p align="center">
 <!--   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500"/> -->
