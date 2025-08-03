@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at [arsalan-portfolio](https://arsalan-portfolio-ten.vercel.app)
 
-- 💬 Ask me about **ReactJS, Python, MongoDb,**
+- 💬 Ask me about **ReactJS, Python, MongoDb, Frontend.**
 
 - 📫 How to reach me **arsalanshaikhcodes@gmail.com**
 
